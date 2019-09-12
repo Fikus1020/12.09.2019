@@ -12,10 +12,10 @@
     <div class="container">
         <div class="header">header</div>
         <div class="sidebar">sidebar</div>
-        <div class="item card">1</div>
-        <div class="item card">2</div>
         <?php require("card.php"); ?>
-        <div class="item card">4</div>
+        <?php require("card.php"); ?>
+        <?php require("card.php"); ?>
+        <?php require("card.php"); ?>
         <div class="item card">5</div>
         <div class="item card">6</div>
         <div class="item card">7</div>
