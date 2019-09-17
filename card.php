@@ -12,5 +12,6 @@ echo('
             <li class="size-item">Wolniejszy</li>
         </ul>
     </div>
+</div>
 </div>');
 ?>
