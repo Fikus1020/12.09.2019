@@ -12,18 +12,19 @@
     <div class="container">
         <div class="header">header</div>
         <div class="sidebar">sidebar</div>
-        <?php require("card.php"); ?>
-        <?php require("card.php"); ?>
-        <?php require("card.php"); ?>
-        <?php require("card.php"); ?>
-        <div class="item card">5</div>
+        <?php require("card2.php"); ?>
+        <div class="item card">2</div>
+        <div class="item card">3</div>
+        <div class="item card">4</div>
         <div class="item card">6</div>
-        <div class="item card">7</div>
+        <?php require("card2.php"); ?>
         <div class="item card">8</div>
         <div class="item card">9</div>
         <div class="item card">10</div>
         <div class="item card">11</div>
-        <div class="item card">12</div>
+        <?php require("card.php"); ?>
+        <?php require("card.php"); ?>
+
         
         <div class="footer">4</div>
     </div>
