@@ -11,6 +11,9 @@ echo('
             <li class="size-item">Szybszy</li>
             <li class="size-item">Wolniejszy</li>
         </ul>
+        <form action="delete.php method="POST">
+        <input type="submit" name="usun" value="usuwanie">
+        </form>
     </div>
 </div>
 </div>');
